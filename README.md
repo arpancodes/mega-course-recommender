@@ -23,7 +23,7 @@ Please follow the same format else I would have to mark your pull request as inv
 
 6. add, commit and push the change
 7. create a pull request!
-8. Follow me on instagram 😋 <a href="https://instagram.com/arpancodes">@arpancodes</a>(obviously an optional step, but it will benefit you TRUST ME 😉).
+8. Follow me on instagram 😋 <a href="https://instagram.com/arpancodes" target="_blank">@arpancodes</a> (obviously an optional step, but it will benefit you TRUST ME 😉).
 
 If we get enough data this by mid of hacktober we might start the actual project this hacktober only!
 All the best!
