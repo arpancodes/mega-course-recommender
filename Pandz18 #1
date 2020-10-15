@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+     
+     <title>Pandz18</title>
+ </head>
+ <body>
+ <section>
+     <a id="index-link" href="https://emmalearnscode.github.io/guide-to-HF/index.html">Homepage</a>
+     <h1>Pandz18</h1>
+     <p>
+         Hi, I am a 12th grade computer science student . In Computer Science 3 things are important.
+     </p>Competative 
+     <ul>
+         <li><strong>C++: </strong> https://www.youtube.com/watch?v=vLnPwxZdW4Y</li>
+         <li><strong>Python </strong> https://www.youtube.com/watch?v=WGJJIrtnfpk</li>
+         <li><strong>Java </strong> https://www.youtube.com/watch?v=8cm1x4bC610 </li>
+     </ul>
+     <p>
+         It is my first pull request <br>
+        Mega-Course-Reminder #1<br>
+         Hacktoberfest.
+     </p>
+ </section>
+ </body>
+ </html>
