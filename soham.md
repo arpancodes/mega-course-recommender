@@ -1,4 +1,4 @@
-### THE MACHINE LEARNING COURSE ###
+### COURSES ###
 
 
 
