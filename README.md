@@ -49,7 +49,7 @@ I would like to thank the followinf people for contributing to this project .
 
 <td align="center"><a href="https://github.com/yashaggarwal03"><img src="https://avatars2.githubusercontent.com/u/72155128?s=400&u=ef81fb8d185b3a8ca67379c8ad3c77e3b3ad5590&v=4" width="100px;" alt=""/><br /><sub><b>Yash Aggarwal</b></sub></a><br /> </td>
 
-<td align="center"><a href="https://github.com/vaibhavtripathi1209"><img src="https://avatars3.githubusercontent.com/u/60314234?s=400&v=4" width="100px;" alt=""/><br /><sub><b>MECH@SGSITS 2023</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/vaibhavtripathi1209"><img src="https://avatars3.githubusercontent.com/u/60314234?s=400&v=4" width="100px;" alt=""/><br /><sub><b>vaibhavtripathi1209</b></sub></a><br /></td>
 
 <td align="center"><a href="https://github.com/rohitkadamrb"><img src="https://avatars1.githubusercontent.com/u/23146076?s=400&v=4" width="100px;" alt=""/><br /><sub><b>rohitkadamrb</b></sub></a><br /> </td>
 
