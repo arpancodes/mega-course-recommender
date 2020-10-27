@@ -59,4 +59,7 @@ I would like to thank the followinf people for contributing to this project .
 
 <td align="center"><a href="https://github.com/iamchaithanyak"><img src="https://avatars0.githubusercontent.com/u/72074815?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Kamasani Chaithanya</b></sub></a><br /></td>
   </tr>
+  <tr>
+  <td align="center"><a href="https://github.com/thebit1701"><img src="https://avatars0.githubusercontent.com/u/53190675?s=400&u=6b346519a208955890afafa0b3b3af24dcf5ca2d&v=4" width="100px;" alt=""/><br /><sub><b>Vishal Arya</b></sub></a><br /></td>
+  </tr>
   </table>
