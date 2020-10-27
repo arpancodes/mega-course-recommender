@@ -106,4 +106,5 @@ I would like to thank the followinf people for contributing to this project .
   <td align="center"><a href="https://github.com/tonygunk27"><img src="https://avatars1.githubusercontent.com/u/72242597?s=400&v=4" width="100px;" alt=""/><br /><sub><b>tonygunk27</b></sub></a><br /> </td>
 
 <td align="center"><a href="https://github.com/theunrealme69"><img src="https://avatars3.githubusercontent.com/u/72992492?s=400&v=4" width="100px;" alt=""/><br /><sub><b>theunrealme69</b></sub></a><br /> </td>
+</tr>
   </table>
