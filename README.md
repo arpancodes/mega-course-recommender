@@ -57,7 +57,7 @@ I would like to thank the followinf people for contributing to this project .
 
 <td align="center"><a href="https://github.com/itsjatin135"><img src="https://avatars1.githubusercontent.com/u/49195216?s=400&u=91850863e102603886d5ffccb37d8ee3fde97a60&v=4" width="100px;" alt=""/><br /><sub><b>Jatin Saini</b></sub></a><br /> </td>
 
-<td align="center"><a href="https://github.com/iamchaithanyak"><img src="https://avatars0.githubusercontent.com/u/72074815?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Kamasani Chaithanya</b></sub></a><br /></td>
+
   </tr>
   <tr>
   <td align="center"><a href="https://github.com/RobRob2710"><img src="https://avatars2.githubusercontent.com/u/55062717?s=400&v=4" width="100px;" alt=""/><br /><sub><b>RobRob2710</b></sub></a><br /></td>
