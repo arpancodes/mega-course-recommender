@@ -39,7 +39,24 @@ I would like to thank the followinf people for contributing to this project .
 <td align="center"><a href="https://github.com/srishtipatil19"><img src="https://avatars0.githubusercontent.com/u/68970410?s=400&v=4" width="100px;" alt=""/><br /><sub><b>srishtipatil19</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/ritik-sys"><img src="https://avatars0.githubusercontent.com/u/60854557?s=400&v=4" width="100px;" alt=""/><br /><sub><b>ritik-sys</b></sub></a><br /> </td>
 <td align="center"><a href="https://github.com/anmolrk"><img src="https://avatars0.githubusercontent.com/u/60808502?s=400&v=4" width="100px;" alt=""/><br /><sub><b>anmolrk</b></sub></a><br /></td>
-<td align="center"><a href="hhttps://github.com/Roshannahak"><img src="https://avatars0.githubusercontent.com/u/47059819?s=400&u=46757c71e47dcd42a62c59a7bc460a15404a6af1&v=4" width="100px;" alt=""/><br /><sub><b>Roshan nahak</b></sub></a><br /> </td>
+<td align="center"><a href="https://github.com/Roshannahak"><img src="https://avatars0.githubusercontent.com/u/47059819?s=400&u=46757c71e47dcd42a62c59a7bc460a15404a6af1&v=4" width="100px;" alt=""/><br /><sub><b>Roshan nahak</b></sub></a><br /> </td>
 <td align="center"><a href="https://github.com/RobRob2710"><img src="https://avatars2.githubusercontent.com/u/55062717?s=400&v=4" width="100px;" alt=""/><br /><sub><b>RobRob2710</b></sub></a><br /></td>
+  </tr>
+<tr>
+<td align="center"><a href="https://github.com/Hrithik1122"><img src="https://avatars0.githubusercontent.com/u/72391718?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Hrithik1122</b></sub></a><br /> </td>
+  
+<td align="center"><a href="https://github.com/Bhaswati-Saha"><img src="https://avatars0.githubusercontent.com/u/63867979?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Bhaswati-Saha</b></sub></a><br /></td>
+
+<td align="center"><a href="https://github.com/yashaggarwal03"><img src="https://avatars2.githubusercontent.com/u/72155128?s=400&u=ef81fb8d185b3a8ca67379c8ad3c77e3b3ad5590&v=4" width="100px;" alt=""/><br /><sub><b>Yash Aggarwal</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/vaibhavtripathi1209"><img src="https://avatars3.githubusercontent.com/u/60314234?s=400&v=4" width="100px;" alt=""/><br /><sub><b>MECH@SGSITS 2023</b></sub></a><br /></td>
+
+<td align="center"><a href="https://github.com/rohitkadamrb"><img src="https://avatars1.githubusercontent.com/u/23146076?s=400&v=4" width="100px;" alt=""/><br /><sub><b>rohitkadamrb</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/itsnotsagar"><img src="https://avatars3.githubusercontent.com/u/56265949?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Sagar Yadav</b></sub></a><br /></td>
+
+<td align="center"><a href="https://github.com/itsjatin135"><img src="https://avatars1.githubusercontent.com/u/49195216?s=400&u=91850863e102603886d5ffccb37d8ee3fde97a60&v=4" width="100px;" alt=""/><br /><sub><b>Jatin Saini</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/iamchaithanyak"><img src="https://avatars0.githubusercontent.com/u/72074815?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Kamasani Chaithanya</b></sub></a><br /></td>
   </tr>
   </table>
