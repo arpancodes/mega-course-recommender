@@ -60,10 +60,11 @@ I would like to thank the followinf people for contributing to this project .
 
 <td align="center"><a href="https://github.com/iamchaithanyak"><img src="https://avatars0.githubusercontent.com/u/72074815?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Kamasani Chaithanya</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/asad2200"><img src="https://avatars0.githubusercontent.com/u/61153243?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Asad Jakhavala</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/amazing-AK"><img src="https://avatars3.githubusercontent.com/u/72189258?s=400&u=762dbc1d9bb69c84969c652ca502218c7323fd9e&v=4" width="100px;" alt=""/><br /><sub><b>Aditya Krishna</b></sub></a><br /> </td>
+
 </tr>
 
 <tr>
-<td align="center"><a href="https://github.com/amazing-AK"><img src="https://avatars3.githubusercontent.com/u/72189258?s=400&u=762dbc1d9bb69c84969c652ca502218c7323fd9e&v=4" width="100px;" alt=""/><br /><sub><b>Aditya Krishna</b></sub></a><br /> </td>
 
 <td align="center"><a href="https://github.com/ajay272191"><img src="https://avatars0.githubusercontent.com/u/23566297?s=400&u=a0b538e84faaa29c0a5764c1949658a4a3b61bcf&v=4" width="100px;" alt=""/><br /><sub><b>Ajay Kumar</b></sub></a><br /></td>
 
@@ -77,12 +78,11 @@ I would like to thank the followinf people for contributing to this project .
   <td align="center"><a href="https://github.com/ShubhamRattra"><img src="https://avatars1.githubusercontent.com/u/46563834?s=400&u=fa30a129fe1ea20cd33b7019875fe0d9284326bf&v=4" width="100px;" alt=""/><br /><sub><b>Shubham Rattra</b></sub></a><br /></td>
 
 <td align="center"><a href="https://github.com/ShivaySabharwal"><img src="https://avatars2.githubusercontent.com/u/68233460?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Shivay Sabharwal</b></sub></a><br /> </td>
-  </tr>
-   <tr>
-  
-
 <td align="center"><a href="https://github.com/Sheetalsingh23"><img src="https://avatars3.githubusercontent.com/u/41787579?s=400&u=37caba4781b2e9663502a861454b863234bbff00&v=4" width="100px;" alt=""/><br /><sub><b>Sheetalsingh23</b></sub></a><br /></td>
-
+  </tr>
+  
+  
+<tr>
 <td align="center"><a href="https://github.com/Shaishav-Anand"><img src="https://avatars2.githubusercontent.com/u/59408292?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Shaishav-Anand</b></sub></a><br /> </td>
 
 <td align="center"><a href="https://github.com/Rutuja07"><img src="https://avatars3.githubusercontent.com/u/51352791?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Rutuja07</b></sub></a><br /></td>
@@ -95,12 +95,11 @@ I would like to thank the followinf people for contributing to this project .
 <td align="center"><a href="https://github.com/AKA333"><img src="https://avatars2.githubusercontent.com/u/36012314?s=400&v=4" width="100px;" alt=""/><br /><sub><b>AKA333</b></sub></a><br /> </td>
 
 <td align="center"><a href="https://github.com/68rohitd"><img src="https://avatars3.githubusercontent.com/u/36996289?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Rohit Dhulubulu</b></sub></a><br /></td>
-  </tr>
-  <tr>
-
-
 <td align="center"><a href="https://github.com/vikask1"><img src="https://avatars1.githubusercontent.com/u/72508455?s=400&v=4" width="100px;" alt=""/><br /><sub><b>vikask1</b></sub></a><br /> </td>
-
+  </tr>
+  
+  
+  <tr>
 <td align="center"><a href="https://github.com/vaish567"><img src="https://avatars1.githubusercontent.com/u/60536883?s=400&u=91b563ae1b9e2b34b837ce51f5f66e4239d8eb9f&v=4" width="100px;" alt=""/><br /><sub><b>Vaishnav Parte</b></sub></a><br /> </td>
 
 <td align="center"><a href="https://github.com/topcoder-01"><img src="https://avatars2.githubusercontent.com/u/60013850?s=400&u=d76d8b33c615dcf714e838ef6eaf2e513dc4796f&v=4" width="100px;" alt=""/><br /><sub><b>topcoder-01</b></sub></a><br /> </td>
