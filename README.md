@@ -27,3 +27,19 @@ Please follow the same format else I would have to mark your pull request as inv
 
 If we get enough data this by mid of hacktober we might start the actual project this hacktober only!
 All the best!
+
+### Contributors 
+I would like to thank the followinf people for contributing to this project .
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/sohampod"><img src="https://avatars3.githubusercontent.com/u/37503788?s=400&u=0e70236683f3f1a738ec85903a44b00d0a3804f7&v=4" width="100px;" alt=""/><br /><sub><b>Soham Poddar</b></sub></a><br /> </td>
+<td align="center"><a href="https://github.com/chinmayc14"><img src="https://avatars3.githubusercontent.com/u/60184593?s=400&u=a27b7ef4a632754bd2b38a263f932a5335da5a36&v=4" width="100px;" alt=""/><br /><sub><b>Chinmay Chaudhari</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/thebit1701"><img src="https://avatars0.githubusercontent.com/u/53190675?s=400&u=6b346519a208955890afafa0b3b3af24dcf5ca2d&v=4" width="100px;" alt=""/><br /><sub><b>Vishal Arya</b></sub></a><br /> </td>
+<td align="center"><a href="https://github.com/srishtipatil19"><img src="https://avatars0.githubusercontent.com/u/68970410?s=400&v=4" width="100px;" alt=""/><br /><sub><b>srishtipatil19</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/ritik-sys"><img src="https://avatars0.githubusercontent.com/u/60854557?s=400&v=4" width="100px;" alt=""/><br /><sub><b>ritik-sys</b></sub></a><br /> </td>
+<td align="center"><a href="https://github.com/anmolrk"><img src="https://avatars0.githubusercontent.com/u/60808502?s=400&v=4" width="100px;" alt=""/><br /><sub><b>anmolrk</b></sub></a><br /></td>
+<td align="center"><a href="hhttps://github.com/Roshannahak"><img src="https://avatars0.githubusercontent.com/u/47059819?s=400&u=46757c71e47dcd42a62c59a7bc460a15404a6af1&v=4" width="100px;" alt=""/><br /><sub><b>Roshan nahak</b></sub></a><br /> </td>
+<td align="center"><a href="https://github.com/RobRob2710"><img src="https://avatars2.githubusercontent.com/u/55062717?s=400&v=4" width="100px;" alt=""/><br /><sub><b>RobRob2710</b></sub></a><br /></td>
+  </tr>
+  </table>
