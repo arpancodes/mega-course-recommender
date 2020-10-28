@@ -187,5 +187,13 @@ I would like to thank the followinf people for contributing to this project .
   <td align="center"><a href="https://github.com/TheHarshCoder"><img src="https://avatars3.githubusercontent.com/u/72307191?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Harsh Kumar</b></sub></a><br /> </td>
 
 <td align="center"><a href="https://github.com/TanyaAggrawal"><img src="https://avatars0.githubusercontent.com/u/56471903?s=400&u=b695af4174e926fae9bf2909d5ba337f1a93c43a&v=4" width="100px;" alt=""/><br /><sub><b>Tanya Aggarwal</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/SravaniKod"><img src="https://avatars2.githubusercontent.com/u/67199349?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Sravani</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/Sanyam2000-dot"><img src="https://avatars0.githubusercontent.com/u/53525430?s=400&u=3794b17475c5d8fcc9791db31c856fb0d8f628af&v=4" width="100px;" alt=""/><br /><sub><b>Sanyam Mehendiratta</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/Sandunifernando"><img src="https://avatars0.githubusercontent.com/u/59954008?s=400&u=82f4bc8b216008ad4e1384099d02b3155f679c3e&v=4" width="100px;" alt=""/><br /><sub><b>Sanduni fernando</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/Rockermanish"><img src="https://avatars3.githubusercontent.com/u/53654018?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Manish Kumar Goswami</b></sub></a><br /> </td>
 </tr>
   </table>
