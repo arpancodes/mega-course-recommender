@@ -132,5 +132,26 @@ I would like to thank the followinf people for contributing to this project .
 </tr>
 <tr>
   <td align="center"><a href="https://github.com/omkar669"><img src="https://avatars2.githubusercontent.com/u/46934695?s=400&u=c34e6b4a1bb0e6d9869f14b37f4bdc272e466b8e&v=4" width="100px;" alt=""/><br /><sub><b>omkar669</b></sub></a><br /> </td>
+  
+  <td align="center"><a href="https://github.com/nidhigupta09"><img src="https://avatars3.githubusercontent.com/u/53952314?s=400&u=52936c2a4ef340b35f347d47df813b178e424ead&v=4" width="100px;" alt=""/><br /><sub><b>NIDHI GUPTA</b></sub></a><br /></td>
+  
+<td align="center"><a href="https://github.com/manvitha1726"><img src="https://avatars1.githubusercontent.com/u/61244556?s=400&u=2df7001626ed8d2490534a068403cdfbd81a6400&v=4" width="100px;" alt=""/><br /><sub><b>Manvitha</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/kaushikisinha06"><img src="https://avatars0.githubusercontent.com/u/57248094?s=400&u=9b0c945cdab8b81508d1191b0383d6dafc56f04b&v=4" width="100px;" alt=""/><br /><sub><b>Kaushiki Sinha</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/harshithauk"><img src="https://avatars1.githubusercontent.com/u/61583501?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Harshitha U K</b></sub></a><br /> </td>
+
+  <td align="center"><a href="https://github.com/guddu0709"><img src="https://avatars2.githubusercontent.com/u/51411542?s=400&v=4" width="100px;" alt=""/><br /><sub><b>guddu0709</b></sub></a><br /> </td>
+  
+<td align="center"><a href="https://github.com/divyxnsh"><img src="https://avatars0.githubusercontent.com/u/58469666?s=400&v=4" width="100px;" alt=""/><br /><sub><b>divyxnsh</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/dikshantgautam2k"><img src="https://avatars1.githubusercontent.com/u/57384495?s=400&v=4" width="100px;" alt=""/><br /><sub><b>dikshantgautam2k</b></sub></a><br /> </td>
   </tr>
+  
+  <tr>
+  <td align="center"><a href="https://github.com/dhanika08"><img src="https://avatars1.githubusercontent.com/u/54225124?s=400&v=4" width="100px;" alt=""/><br /><sub><b>dhanika08</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/cp2940"><img src="https://avatars2.githubusercontent.com/u/51086958?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Candra Perdana</b></sub></a><br /> </td>
+
+<td align="center"><a href="https://github.com/codeshaan"><img src="https://avatars1.githubusercontent.com/u/48273777?s=400&u=eb5511ea50df4126de865262a15e81d2b695f884&v=4" width="100px;" alt=""/><br /><sub><b>Shaan Alam</b></sub></a><br /> </td>
   </table>
