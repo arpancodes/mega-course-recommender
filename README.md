@@ -29,7 +29,7 @@ If we get enough data this by mid of hacktober we might start the actual project
 All the best!
 
 ### Contributors 
-I would like to thank the followinf people for contributing to this project .
+I would like to thank the following people for contributing to this project .
 
 <table>
 <tr>
